@@ -2,6 +2,7 @@ package com.initial;
 
 public class Student {
     private String name;
+    private String School;
 
     public String getName() {
         return name;
