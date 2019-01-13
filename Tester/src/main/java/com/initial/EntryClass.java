@@ -8,6 +8,8 @@ public class EntryClass {
         System.out.println("Student Name : "+student.getName()+"\n RollNo : "+student
         .getRollNo());
     }
+
+    
     public static Student generateStudentDetails(){
         Student student =new Student();
         student.setName("John");
